@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414058247668",
+    "project_id": "minute-minder",
+    "storage_bucket": "minute-minder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414058247668:android:a60c55b66d4fa1113af5a1",
+        "android_client_info": {
+          "package_name": "com.example.minute_minder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwO-TXPg56bIGjU0RMIr01AwyjciTv670"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
